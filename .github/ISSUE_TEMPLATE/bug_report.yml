@@ -25,6 +25,7 @@ body:
       placeholder: LATEST IS NOT A VERSION, I NEED THE EXACT BUILD NUMBER OF YOUR GAME.
     validations:
       required: true
+  description: The build number under the title in the main menu.
   - type: textarea
     id: issue
     attributes:
